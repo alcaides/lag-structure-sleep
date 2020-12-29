@@ -10,7 +10,7 @@ The brain mechanisms by which we transition from sleep to a conscious state rema
 
 Contact info
 ====
-cabalangofeld@gmail.com
+cabalangofeld@gmail.com  
 santiago.asa@gmail.com
 
 Data
