@@ -8,7 +8,10 @@ Abstract
 
 The brain mechanisms by which we transition from sleep to a conscious state remain largely unknown in humans, partly because of the methodological challenges implied in its study. Here we study a dataset of waking up subjects and suggest that suddenly awakening from early sleep stages results from a two-stage process that involves a sequence of cortical and subcortical brain activity. During a first stage, subcortical and sensorimotor structures seem to preceed most cortical regions, followed by a fast, ignition-like activation of the whole brain – with frontal regions activating a little later than the rest of the brain. After this first wave of activation, a comparably slower and possibly mirror-reversed second stage might take place, in which cortical regions preceed subcortical structures and the cerebellum. This pattern of activation points to a key role of subcortical structures for the initiation and maintainance of conscious states.
 
-
+Contact info
+====
+cabalangofeld@gmail.com
+santiago.asa@gmail.com
 
 Data
 ====
